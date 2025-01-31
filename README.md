@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a PhD student in the School of Physics & Astronomy at the University of Edinburgh. 
+
 <!--
 **Joseph-Knight1/Joseph-Knight1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
