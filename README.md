@@ -2,6 +2,8 @@
 
 I'm a PhD student in the School of Physics & Astronomy at the University of Edinburgh. 
 
+I am currently investigating a protist organism *Labyrinthula* that grows on seagrass 🌱
+
 <!--
 **Joseph-Knight1/Joseph-Knight1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
